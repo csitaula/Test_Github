@@ -1,0 +1,12 @@
+Index: FirstProgramForGit.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- FirstProgramForGit.py	(revision 4aff8ab32d04ab5fe85d7f35072da19f1192c08e)
++++ FirstProgramForGit.py	(date 1570080163751)
+@@ -1,2 +1,2 @@
+ print('Hello Github')
+-print('Second commited')
+\ No newline at end of file
++print('Second commited')
